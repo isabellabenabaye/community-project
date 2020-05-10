@@ -11,3 +11,6 @@ On May 9, 2020 I scraped the IMDb ratings of all 110 [Community](https://en.wiki
 
 `community_data_scrape.ipynb` - optimized code used for scraping
 
+
+You can also find the dataset on kaggle [here](https://www.kaggle.com/imbenab/community-episodes-imdb-ratings).
+
