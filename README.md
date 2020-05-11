@@ -7,9 +7,13 @@ On May 9, 2020 I scraped the IMDb ratings of all 110 [Community](https://en.wiki
 
 ### This repo contains the following jupyter notebooks:
 
-`community_data_scrape_process.ipynb` - this notebook explains the scraping process step-by-step, using [this article](https://www.dataquest.io/blog/web-scraping-beautifulsoup/) as a reference (for beginners)
+`scraping-episode-imdb-ratings.ipynb` - this notebook explains the scraping process step-by-step, using [this article](https://www.dataquest.io/blog/web-scraping-beautifulsoup/) as a reference (for beginners)
 
 `community_data_scrape.ipynb` - optimized code used for scraping
+
+`community_EDA.ipynb` - explores the ratings and total votes, plots them against each other, and contains the code that creates the heatmap below
+
+![]('https://github.com/isabellabenabaye/community-project/blob/master/Community%20Episodes%20Ratings%20-%20Heatmap.png?raw=true')
 
 ### Dataset
 You can also find the dataset on kaggle [here](https://www.kaggle.com/imbenab/community-episodes-imdb-ratings).
