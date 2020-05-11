@@ -18,7 +18,7 @@ The variables include:
 **Season** - `season`   
 **Episode number** - `episode_number`   
 **Episode title** - `title`   
-**Air date** - `airdate`   
+**Original air date** - `airdate`   
 **IMBd rating** - `rating`   
 **Total votes** - `total_votes`   
 **Episode description** - `desc`   
