@@ -5,7 +5,10 @@ First of all, Community is a gem and if you haven't seen it, you should.
 
 On May 9, 2020 I scraped the IMDb ratings of all 110 [Community](https://en.wikipedia.org/wiki/Community_(TV_series)) episodes in honor of their [May 18, 2020 reunion](https://www.cnet.com/news/the-community-reunion-with-donald-glover-is-happening/) to raise money for two coronavirus relief efforts.
 
-### This repo contains the following jupyter notebooks:
+### This repo contains the following R script & jupyter notebooks:
+
+`community_plot.R` - R script that creates the plot below
+![](https://github.com/isabellabenabaye/community-project/blob/master/Community%20Episodes.png?raw=true)
 
 `scraping-episode-imdb-ratings.ipynb` - this notebook explains the scraping process step-by-step, using [this article](https://www.dataquest.io/blog/web-scraping-beautifulsoup/) as a reference (for beginners)
 
@@ -15,6 +18,8 @@ On May 9, 2020 I scraped the IMDb ratings of all 110 [Community](https://en.wiki
 
 ![](https://github.com/isabellabenabaye/community-project/blob/master/Community%20Episodes%20Ratings%20-%20Heatmap.png?raw=true)
 
+`community_plot.R` - R script that creates the plot below
+![(https://github.com/isabellabenabaye/community-project/blob/master/Community%20Episodes.png?raw=true)
 ### Dataset
 You can also find the dataset on kaggle [here](https://www.kaggle.com/imbenab/community-episodes-imdb-ratings).
 
